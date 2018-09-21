@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verify TV license"
-    id="21f39fac-81d4-4938-87ab-b1dd3bb723b6"/>
+    id="21f39fac-81d4-4938-87ab-b1dd3bb723b6"
+    documentation="Process Name&#x9;Verify TV license number&#xD;&#xA;Process Number&#x9;1.1.1.5&#xD;&#xA;Description&#x9;The goal of this process is to verify TV license in order to be able to proceed with TV sale. &#xD;&#xA;Inputs&#x9;TV Licence number &#xD;&#xA;Outputs&#x9;TV license number verified&#xD;&#xA;Starts with&#xD;&#xA;(is triggered by)&#x9;Customer is buying a TV&#xD;&#xA;Customer of this process&#x9;The customer &#xD;&#xA;"/>
