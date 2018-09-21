@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Display Financial Product  Information"
+    id="daebd71d-725a-45d7-bb54-1a9ffcb8d6ff"
+    documentation="Involves:&#xD;&#xA;&#xD;&#xA;The account number &#xD;&#xA; The account holders details &#xD;&#xA;The amount credited to the account"/>

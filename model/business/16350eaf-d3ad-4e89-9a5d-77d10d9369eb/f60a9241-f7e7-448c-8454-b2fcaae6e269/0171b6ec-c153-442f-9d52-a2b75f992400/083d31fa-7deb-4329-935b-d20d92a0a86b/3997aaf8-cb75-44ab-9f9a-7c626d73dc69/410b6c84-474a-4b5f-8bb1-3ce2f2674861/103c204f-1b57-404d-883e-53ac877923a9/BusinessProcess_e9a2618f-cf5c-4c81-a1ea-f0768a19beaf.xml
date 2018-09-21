@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determine if TV license number is valid"
+    id="e9a2618f-cf5c-4c81-a1ea-f0768a19beaf"
+    documentation="Activity Name&#x9;Determine if TV license number is valid&#xD;&#xA;Description&#x9;This is a task whereby SCO checks the results display in order to determine if licence number is valid&#xD;&#xA;Inputs&#x9;Verified license details are displayed&#xD;&#xA;Outputs&#x9;•&#x9;License number is valid-Continue with sale&#xD;&#xA;•&#x9;License number is invalid-Do not continue with sale&#xD;&#xA;Role&#x9;Service Centre Operator&#xD;&#xA;Business Rule&#x9;N/A&#xD;&#xA;"/>

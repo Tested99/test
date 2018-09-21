@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submit TV License Validation Request "
+    id="3dce0048-334e-4e4e-bfaf-cd520e8808e1"
+    documentation="Activity Name&#x9;Submit TV license validation request&#xD;&#xA;Description&#x9;This is a system function whereby captured license details are sent to SABC system for validation &#xD;&#xA;Inputs&#x9;TV license details &#xD;&#xA;&#xD;&#xA;Outputs&#x9;License details are sent to SABC system for validation&#xD;&#xA;Role&#x9;Avenew&#xD;&#xA;Business Rule&#x9;N/A&#xD;&#xA;"/>

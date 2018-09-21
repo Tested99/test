@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send TV license  validation results"
+    id="def9b4b6-91c5-48c4-9001-8255a4688bbe"
+    documentation="Activity Name&#x9;Send TV license  validation results&#xD;&#xA;Description&#x9;This is a system function whereby captured license details are verified and sent to Avenew&#xD;&#xA;Inputs&#x9;TV license details &#xD;&#xA;Outputs&#x9;Verified license details are sent to Avenew&#xD;&#xA;Role&#x9;SABC system&#xD;&#xA;Business Rule&#x9;N/A&#xD;&#xA;"/>

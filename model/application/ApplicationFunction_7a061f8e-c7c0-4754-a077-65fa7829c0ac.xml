@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Login"
+    id="7a061f8e-c7c0-4754-a077-65fa7829c0ac"
+    documentation="Involves:&#xD;&#xA;#Selecting front or back office&#xD;&#xA;Username &#xD;&#xA;Password&#xD;&#xA;Store Code&#xD;&#xA;Click On Login Button"/>

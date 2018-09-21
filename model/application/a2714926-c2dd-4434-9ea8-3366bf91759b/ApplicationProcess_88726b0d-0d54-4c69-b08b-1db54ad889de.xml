@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Updated Customer Details "
+    id="88726b0d-0d54-4c69-b08b-1db54ad889de"
+    documentation="Activity Name&#x9;Receive updated customer details&#xD;&#xA;Description&#x9;This is a task whereby SABC system receives updated details so that a reference number can be generated&#xD;&#xA;Inputs&#x9;Updated customer details  &#xD;&#xA;Outputs&#x9;Updated details received &#xD;&#xA;Role&#x9;SABC system&#xD;&#xA;Business Rule&#x9;N/A&#xD;&#xA;"/>

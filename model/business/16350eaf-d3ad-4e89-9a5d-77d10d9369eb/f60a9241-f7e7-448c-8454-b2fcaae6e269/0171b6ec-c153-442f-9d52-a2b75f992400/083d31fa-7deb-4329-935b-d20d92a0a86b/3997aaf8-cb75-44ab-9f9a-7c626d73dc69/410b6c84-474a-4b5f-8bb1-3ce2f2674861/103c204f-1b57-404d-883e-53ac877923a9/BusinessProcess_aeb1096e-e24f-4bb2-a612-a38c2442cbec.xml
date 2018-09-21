@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Customer Details"
+    id="aeb1096e-e24f-4bb2-a612-a38c2442cbec"
+    documentation="Activity Name&#x9;Update customer details&#xD;&#xA;Description&#x9;This is a task whereby SCO updates customer details based on results returned&#xD;&#xA;Inputs&#x9;Verified license details &#xD;&#xA;Outputs&#x9;Customer details updated&#xD;&#xA;Role&#x9;Service Centre Operator&#xD;&#xA;Business Rule&#x9;N/A&#xD;&#xA;"/>

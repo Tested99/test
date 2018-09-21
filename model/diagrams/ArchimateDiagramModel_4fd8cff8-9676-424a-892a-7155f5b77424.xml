@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Manage Store Operations"
+    id="4fd8cff8-9676-424a-892a-7155f5b77424"
+    viewpoint="strategy">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="13d35e91-57ff-40a5-91b5-2b8e3a2c0a5b"
+      targetConnections="46793937-516c-497c-92b6-1fce2d039474">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_767f5d49-8dab-4485-8748-70cb39438546.xml#767f5d49-8dab-4485-8748-70cb39438546"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5705cca5-0ffb-424d-87f7-219ca222f68a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="46793937-516c-497c-92b6-1fce2d039474"
+        source="5705cca5-0ffb-424d-87f7-219ca222f68a"
+        target="13d35e91-57ff-40a5-91b5-2b8e3a2c0a5b">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_440df32f-c05f-47f4-a3bd-c9c190624ddd.xml#440df32f-c05f-47f4-a3bd-c9c190624ddd"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_c5022d9d-1fc1-493f-9aef-ff0813bfc302.xml#c5022d9d-1fc1-493f-9aef-ff0813bfc302"/>
+  </children>
+</archimate:ArchimateDiagramModel>

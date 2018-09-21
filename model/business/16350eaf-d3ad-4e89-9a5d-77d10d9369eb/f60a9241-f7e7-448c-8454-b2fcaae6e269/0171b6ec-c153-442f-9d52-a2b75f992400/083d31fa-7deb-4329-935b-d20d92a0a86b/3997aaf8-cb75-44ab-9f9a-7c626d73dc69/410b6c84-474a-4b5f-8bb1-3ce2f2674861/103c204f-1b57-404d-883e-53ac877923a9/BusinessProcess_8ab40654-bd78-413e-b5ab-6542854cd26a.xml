@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Receive Reference Number"
+    id="8ab40654-bd78-413e-b5ab-6542854cd26a"
+    documentation="Activity Name&#x9;Receive reference number&#xD;&#xA;Description&#x9;This is a task whereby reference number is displayed on avenew&#xD;&#xA;Inputs&#x9;Updated customer details  &#xD;&#xA;Outputs&#x9;Updated details received &#xD;&#xA;Role&#x9;Service Centre Operator&#xD;&#xA;Business Rule&#x9;N/A&#xD;&#xA;"/>

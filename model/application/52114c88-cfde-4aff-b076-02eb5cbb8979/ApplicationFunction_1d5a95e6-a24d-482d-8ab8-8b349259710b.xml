@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Display Credit  Information"
+    id="1d5a95e6-a24d-482d-8ab8-8b349259710b"
+    documentation="Involves:&#xD;&#xA;&#xD;&#xA;Transaction total &#xD;&#xA;Amount tendered and change &#xD;&#xA;Number of items purchased &#xD;&#xA;Discounts that have been applied to the transaction"/>

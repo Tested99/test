@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Display Payment details Information"
+    id="e0664d63-ac89-430f-9ebb-d76be7d4151f"
+    documentation="Involves:&#xD;&#xA;Transaction total&#xD;&#xA; Amount tendered and Change&#xD;&#xA; No of items purchased&#xD;&#xA;Discount that  have been applied to the transaction"/>
