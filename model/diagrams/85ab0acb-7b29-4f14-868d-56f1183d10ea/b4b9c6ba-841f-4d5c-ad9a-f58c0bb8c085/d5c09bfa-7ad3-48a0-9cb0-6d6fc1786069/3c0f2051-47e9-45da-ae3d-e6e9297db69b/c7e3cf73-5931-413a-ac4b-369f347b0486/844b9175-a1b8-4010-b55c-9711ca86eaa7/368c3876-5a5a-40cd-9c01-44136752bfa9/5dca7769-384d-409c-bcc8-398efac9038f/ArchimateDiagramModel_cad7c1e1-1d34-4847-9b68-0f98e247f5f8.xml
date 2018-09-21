@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FrontOffice - Manage Sales in Store - Process pre-paid insurance"
+    name="Process pre-paid insurance"
     id="cad7c1e1-1d34-4847-9b68-0f98e247f5f8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

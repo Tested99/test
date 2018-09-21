@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FrontOffice - Sales and Payments  - Verify TV license number"
+    name="Verify TV license number"
     id="b67b0b36-2705-44ce-94a8-1d7aaed2de93">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

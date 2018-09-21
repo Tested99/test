@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FrontOffice - Manage Sales in Store - Process Airtime Sale"
+    name="Process Airtime Sale"
     id="55b570c1-ce94-43e8-83fe-cdca7daaebb7">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

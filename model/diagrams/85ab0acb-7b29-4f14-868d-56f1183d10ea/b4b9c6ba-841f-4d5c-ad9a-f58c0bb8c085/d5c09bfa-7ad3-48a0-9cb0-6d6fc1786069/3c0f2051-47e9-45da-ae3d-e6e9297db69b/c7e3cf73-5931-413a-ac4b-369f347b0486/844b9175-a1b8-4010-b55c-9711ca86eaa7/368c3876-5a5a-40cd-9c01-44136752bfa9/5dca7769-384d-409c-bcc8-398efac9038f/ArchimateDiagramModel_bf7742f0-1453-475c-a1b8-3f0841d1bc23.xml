@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FrontOffice - Manage Sales in Store - Process Staff Sale"
+    name="Process Staff Sale"
     id="bf7742f0-1453-475c-a1b8-3f0841d1bc23">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FrontOffice - Manage Sales in Store - Process Gift Card Sale"
+    name="Process Gift Card Sale"
     id="a7e9b3b7-3387-4c23-bf15-9a2f8c77e673">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
