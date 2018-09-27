@@ -1,0 +1,14 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Computer Terminal - HP RP5800"
+    id="87f4bca3-8f56-41b1-bdd6-99ee5a153904">
+  <properties
+      key="Memory"
+      value="4 gb"/>
+  <properties
+      key="Storage"
+      value="500 gb"/>
+  <properties
+      key="CPU"
+      value="2.3"/>
+</archimate:Device>
